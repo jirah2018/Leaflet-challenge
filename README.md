@@ -11,7 +11,10 @@ Part 2: Gather and Plot More Data (Optional)
 
 Leaflet Part 1: Create the Earthquake Visualization
 
-picture
+![3-Data](https://github.com/jirah2018/Leaflet-challenge/assets/151040384/141942d9-68eb-45f4-9a27-75640b08f43b)
+
+![4-JSON](https://github.com/jirah2018/Leaflet-challenge/assets/151040384/2c72f9b3-7db0-4f14-9421-41b2ebdab86e)
+
 
 ***Dataset***
 
